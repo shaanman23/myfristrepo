@@ -1,1 +1,2 @@
-# myfristrepo
+first line 
+second line # myfristrepo
